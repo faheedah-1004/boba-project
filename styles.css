@@ -1,0 +1,26 @@
+* {
+    font-family: sans-serif;
+}
+p {
+    color: black;
+}
+body {
+    background-color: #F7EC6E;
+}
+h1 {
+    text-align: center;
+}
+div {
+    display:flex;
+    padding:20px;
+    background-color: #F6E84E;
+    gap:20px;
+    align-items: center;
+}
+img {
+    height:150px;
+    width:auto;
+}
+.boba {
+    text-align: center;
+}
